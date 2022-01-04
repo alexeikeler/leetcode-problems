@@ -1,3 +1,1 @@
-# python
-python files
-Leetcode solutions
+Different tasks from LeetCode.
